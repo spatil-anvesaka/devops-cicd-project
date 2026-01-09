@@ -15,4 +15,4 @@ This project demonstrates a CI/CD pipeline using GitHub Actions to build a Docke
 
 ## How to Run
 - docker build -t devops-demo .
-- kubectl apply -f k8s/
+- kubectl apply -f kubernetes/
